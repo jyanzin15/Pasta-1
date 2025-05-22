@@ -4,4 +4,10 @@ body{
 h1{
     font-style: italic;
     color: rgb(250, 250, 250);
+    font-size: medium;
+    font-style: oblique;
+}
+h2 {
+    font-style: italic
+    color:rgb(250, 250, 250)
 }
