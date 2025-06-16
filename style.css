@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(86, 75, 240);
+    background-color: #0091ff;
     text-align: center;
 }
 h1 {
@@ -16,7 +16,7 @@ h2 {
 }
 .lista{
     text-align: center;
-    color: white;
+    color: white;  
 }
 .P1 {
     color: black;
