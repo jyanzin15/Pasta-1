@@ -2,6 +2,33 @@ body{
     background-color: white;
     text-align: center;
 }
+header {
+ text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(253, 254, 255);
+}
+
+nav a {
+  width: 200px;
+  text-align:center;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #00c3ff
+}
 h1{
     font-style: italic;
     color: black;
