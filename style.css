@@ -3,17 +3,16 @@ body{
     text-align: center;
 }
 header {
+ text-align: center;
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
   align-items: center;
   background-color: rgb(1, 81, 255);
 }
 
-nav {
+nav a {
   width: 200px;
-  display: flex;
-  justify-content: space-between;
+  text-align:center;
 }
 nav ul {
   list-style: none;
