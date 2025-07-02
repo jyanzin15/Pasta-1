@@ -7,7 +7,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #b80707;
+  background-color: #000000;
 }
 
 nav a {
@@ -27,7 +27,7 @@ nav li {
 
 nav a {
   text-decoration: none;
-  color: #07bb07
+  color: #ffffff
 }
 h1{
     font-style: italic;
@@ -38,7 +38,7 @@ h1{
     color: black;
 }
 h2{
-    color: #b80707;
+    color: #fc0202;
     font-weight: 200;
 }
 .E2{
